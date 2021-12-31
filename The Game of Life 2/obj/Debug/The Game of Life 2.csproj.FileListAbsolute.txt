@@ -1,0 +1,10 @@
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\obj\Debug\The Game of Life 2.csprojAssemblyReference.cache
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\obj\Debug\The_Game_of_Life_2.Form1.resources
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\obj\Debug\The_Game_of_Life_2.Properties.Resources.resources
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\obj\Debug\The Game of Life 2.csproj.GenerateResource.cache
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\obj\Debug\The Game of Life 2.csproj.CoreCompileInputs.cache
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\bin\Debug\The Game of Life 2.exe.config
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\bin\Debug\The Game of Life 2.exe
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\bin\Debug\The Game of Life 2.pdb
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\obj\Debug\The Game of Life 2.exe
+C:\Users\Infinity\source\repos\The Game of Life 2\The Game of Life 2\obj\Debug\The Game of Life 2.pdb
